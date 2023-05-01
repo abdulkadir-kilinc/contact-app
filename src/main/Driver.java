@@ -1,8 +1,12 @@
+package main;
+
 import com.kadirkilinc.phonedirectory.Contact;
-import com.kadirkilinc.phonedirectory.GuideBook;
+
 
 public class Driver {
     public static void main(String[] args) {
+        Contact contact=new Contact("yunus","4455445","sadasdas");
+
 
     }
 }

@@ -59,6 +59,9 @@ public class Contact {
                 ",email= ' " + email + '\'' +
                 '}';
     }
+
+    public void seteMail(String eMail) {
+    }
 }
 
 
